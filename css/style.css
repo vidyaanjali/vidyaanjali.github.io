@@ -194,11 +194,10 @@ a.navbar-brand span {
 /*--//search--*/
 /*-- banner --*/
 .banner{
-background: url(../images/banner.jpg) no-repeat 0px 0px;
+background: url(../images/banner1.jpg) no-repeat 0px 0px;
 background-size:cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
--ms-background-size: cover;
 -moz-background-size: cover;
 min-height: 700px;
 }
@@ -919,7 +918,7 @@ color: #c2c2c2;
 }
 /*-- //footer --*/
 .banner.page-head {
-  min-height: 135px;
+  /*min-height: 135px;*/
 }
 /*--trypography--*/
 .typrography {
