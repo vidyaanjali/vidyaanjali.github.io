@@ -1,0 +1,16 @@
+/* Add here all your css styles (customizations) */
+.list-inline>li {
+    margin-top: 20px;
+}
+
+@media (min-width: 1100px) {
+    .list-inline {
+        padding: 0 200px;
+    }
+}
+
+#topRightContainer p {
+    line-height: 12px;
+    font-size: 14px;
+    font-weight: bold;
+}
